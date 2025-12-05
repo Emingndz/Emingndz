@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Emingndz/Emingndz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Muhammed Emin Gündüz
 
-Here are some ideas to get you started:
+### I am a Computer Engineering student at Kocaeli University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+- 👩‍💻 All of my projects are available at [GitHub](https://github.com/Emingndz?tab=repositories)
+- 📫 How to reach me [m.emingndz27@gmail.com](mailto:m.emingndz27@gmail.com)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/muhammed-emin-g%C3%BCnd%C3%BCz-1b6541338)
+
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/muhammed-emin-gündüz-1b6541338/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" />
+</a>
